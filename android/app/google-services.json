@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "991078519744",
+    "project_id": "revamph-8d42d",
+    "storage_bucket": "revamph-8d42d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991078519744:android:2a797783c0f15a9fddae25",
+        "android_client_info": {
+          "package_name": "com.example.revamph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991078519744-pp0eoobu59mqq6mbkm52u85bue5rq416.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.revamph",
+            "certificate_hash": "38703c72a30df406b6bb047c518a3da0908915de"
+          }
+        },
+        {
+          "client_id": "991078519744-6291pjqg7sft8bicpkrk1ig0ov17l17d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOFexM4N2DxDd1Ud_Bd85JjvzmrMJIeU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991078519744-6291pjqg7sft8bicpkrk1ig0ov17l17d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
